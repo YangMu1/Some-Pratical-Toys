@@ -11,6 +11,7 @@
 本程序是在开发电影票房预测系统中,使用python进行web网页爬虫的一个demo
 爬取的网站是预告片网站的2015年和2016年的预告片电影信息
 对应的url链接为:http://www.yugaopian.com/movlist/___pubtime_
+对爬取的目标网页进行解析的工具是beautiful soup
 '''
 
 import json
